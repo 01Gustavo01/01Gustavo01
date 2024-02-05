@@ -22,17 +22,12 @@
       <p style="margin-bottom: 10px;">🏦 Database: SQL, UML e SQLLite</p>
       <p style="margin-bottom: 10px;">📚 Plataformas: Intellij, PyCharm e VsCode </p>
       <p style="margin-bottom: 10px;">🔄 Metodologia e Frameworks: Kanban e Scrum</p>
-      <br><br><br><br> 
+      <br><br>
       <p style="margin-bottom: 0;"><img src="https://komarev.com/ghpvc/?username=01gustavo01&label=Profile%20views&color=0e75b6&style=flat" alt="01gustavo01" /> </p>
     </td>
   </tr>
 </table>
-
-
-
 <br>
-
-
 <h3 align="left">linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
