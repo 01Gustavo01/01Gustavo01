@@ -11,7 +11,7 @@
   <tr>
     <td style="text-align: right; border: none;">
       <a href="https://giphy.com/gifs/GM9qpNTz2Q72ex1tpG">
-        <img src="https://media.giphy.com/media/GM9qpNTz2Q72ex1tpG/giphy.gif" alt="GIF" width="650">
+        <img src="https://media.giphy.com/media/GM9qpNTz2Q72ex1tpG/giphy.gif" alt="GIF" width="600">
       </a>
     </td>
    <td style="width: 50%; border: none;">
