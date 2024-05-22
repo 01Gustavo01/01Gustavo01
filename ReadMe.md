@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">Olá 👋, Eu sou Gustavo Duarte</h1>
-<h3 align="center">Um desenvolvedor apaixonado por back end</h3>
+<h3 align="center">Um desenvolvedor apaixonado por java</h3>
 
 <p style="margin-bottom: 10px;">🌱 Atualmente estou aprendendo <em>Java</em></p>
 <p style="margin-bottom: 10px;">👨‍💻 Portfólio <!--<a>AQUI</a>--></p>
