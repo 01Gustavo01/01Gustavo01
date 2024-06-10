@@ -36,5 +36,4 @@
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=01gustavo01&show_icons=true&locale=en" alt="01gustavo01" width="330" height="200" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01gustavo01&show_icons=true&locale=en&layout=compact" alt="01gustavo01" width="300" height="200" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=01gustavo01&" alt="01gustavo01" width="330" height="200" />
 </div>
